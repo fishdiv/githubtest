@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to my Final Project
 
-You can use the [editor on GitHub](https://github.com/fishdiv/githubtest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the documentation for my "Favorites" site that I made in Mobile Application Development, a class from Rasmussen College.  This web application uses the data-role attribute and jQuery to create pages and a navigation panel all from a single HTML document.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Site Structure
 
-### Markdown
+Home Page Panel
+- Hobbies
+- Food
+- Projects
+- Music
+- Family
+- Business
+- Contact Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Button Descriptions by page:
 
-```markdown
-Syntax highlighted code block
+### Music
+- Blues, Rock, Country, and Pop are all buttons that should display their text in the "You chose: " textbox at the bottom of the page.
+### Contact Me
+- Reset Button - clears the form textboxes
+- Submit Button - posts the contents of the form
+- Clear localStorage - clears local storage on browser
+- Empty localStorage - empties local storage on browser
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fishdiv/githubtest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [Nate Fisher's Favorites](http://sotd.us/nathanielfisher/week%205/Project%20week%205/).
