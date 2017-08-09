@@ -17,6 +17,7 @@ Home Page Panel
 
 ### Music
 - Blues, Rock, Country, and Pop are all buttons that should display their text in the "You chose: " textbox at the bottom of the page.
+
 ### Contact Me
 - Reset Button - clears the form textboxes
 - Submit Button - posts the contents of the form
